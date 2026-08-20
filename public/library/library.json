@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "test-asset-1",
+    "dataUri": "data:image/png;base64,iVBORw0KGgo=",
+    "mimeType": "image/png",
+    "fileName": "test.png"
+  }
+]
