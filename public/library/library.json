@@ -4,5 +4,11 @@
     "dataUri": "data:image/png;base64,iVBORw0KGgo=",
     "mimeType": "image/png",
     "fileName": "test.png"
+  },
+  {
+    "id": "race-2",
+    "dataUri": "data:image/png;base64,x",
+    "mimeType": "image/png",
+    "fileName": "race2.png"
   }
 ]
